@@ -1,0 +1,48 @@
+                                          MODULE-2
+                         DC MOTOR SPEED CONTROLLER IN ROBOTIC HEAD
+
+ABSTRACT 
+
+This project presents the design and implementation of a DC motor speed controller using a Pulse Width Modulation (PWM) technique. The objective is to regulate the speed 
+of the DC motor by adjusting the duty cycle of the PWM signal, thereby controlling the amount of power supplied to the motor. The controller uses a microcontroller to generate 
+the PWM signal, which is fed to a motor driver circuit to control the motor's speed. The system allows precise and efficient speed control, making it suitable for applications such 
+as robotics, conveyor systems, and automation. The project also includes safety features such as overcurrent protection and an adjustable speed range. 
+
+INTRODUCTION
+
+DC motors are widely used in various applications due to their simplicity, controllability, and efficiency. The speed of a DC motor is a critical parameter in many 
+systems, such as robotics, automation, and conveyors, where precise speed control is necessary for optimal performance. In this mini-project, we focus on developing a DC 
+motor speed controller that adjusts the motor's speed according to desired parameters.Traditional methods of controlling the speed of DC motors often involve 
+varying the input voltage or using resistors, but these techniques can be inefficient and generate excess heat. 
+
+COMPONENTS USED
+
+• DC Motor - 12v/6000-10000RPM
+
+• IC - NE555 Timer
+
+• Darlington transistor - TIP122
+
+• Potentiometer – 100k
+
+• Diode – 1N4007
+
+• Capacitor - 100Nf
+
+• Resistor – 1k
+
+• Dc battery - 12v
+
+• Battery clips - 1
+
+ADVANTAGES
+
+• Cost-Effective
+• Reliable
+• environments.Simplicity
+
+APPLICATIONS
+
+• Manufacturing automation .
+• Educational robotics
+• Pick and place system 
